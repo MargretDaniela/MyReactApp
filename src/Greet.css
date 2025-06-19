@@ -1,0 +1,9 @@
+.greet{
+    color: black;
+    background-color: grey;
+     border: 1px solid #ccc;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
